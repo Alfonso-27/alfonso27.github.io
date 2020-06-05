@@ -31,6 +31,12 @@ img{
     width: 85%;
 }
 
+button{
+    display: inline;
+    margin-left: 57rem;
+    margin-top: 50px;
+}
+
 footer{
     text-align: center;
     margin-top: 5rem;
