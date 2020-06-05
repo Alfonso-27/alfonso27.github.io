@@ -32,7 +32,7 @@ img{
 }
 
 button{
-    display: inline;
+    display: inline-block;
     margin-left: 57rem;
     margin-top: 50px;
 }
